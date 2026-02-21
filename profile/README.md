@@ -18,13 +18,21 @@ We build intelligent automation solutions that help businesses save time and sca
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## Featured Projects
+## Open Source
 
 | Project | Description |
 |---------|-------------|
-| [SiteGen AI](https://appstar.com.ru/dashboard) | AI-powered website generator |
-| [IT Articles Blog](https://appstar.com.ru/blog) | Case studies & tech insights |
+| [Verified Facts Protocol](https://github.com/appstar-com-ru/verified-facts-protocol) | Cryptographic protocol for publishing machine-verifiable facts. Ed25519 signed claims for AI systems. |
+
+## Products
+
+| Product | Description |
+|---------|-------------|
+| [SiteGen AI](https://appstar.com.ru/ru/sitegen/) | AI-powered website generator — complete site in 30 seconds |
+| [Verified Facts Validator](https://appstar.com.ru/ru/verified-facts/) | Live validator for the Verified Facts Protocol |
+| [IT Articles](https://play.google.com/store/apps/details?id=ru.appstar.itarticles) | Android app for reading tech articles |
 
 ## Clients
 
@@ -35,6 +43,7 @@ Sberbank • Kawasaki • Volkswagen • Porsche Design • Škoda • diHouse �
 ## Contact
 
 - **Website:** [appstar.com.ru](https://appstar.com.ru)
+- **Blog:** [appstar.com.ru/blog](https://appstar.com.ru/ru/blog/)
 - **Email:** support@appstar.com.ru
 
 ---
